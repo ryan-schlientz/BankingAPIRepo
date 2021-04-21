@@ -1,0 +1,49 @@
+root - INFO - Program Started
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\RyanSchlientz\PycharmProjects\MovieApp\logger.py", line 14, in log
+    x = 1/0
+ZeroDivisionError: division by zero
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\RyanSchlientz\PycharmProjects\MovieApp\logger.py", line 14, in log
+    x = 1 / 0
+ZeroDivisionError: division by zero
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\RyanSchlientz\PycharmProjects\MovieApp\logger.py", line 14, in log
+    x = 1 / 0
+ZeroDivisionError: division by zero
+__main__ - INFO - Test Output
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\RyanSchlientz\PycharmProjects\MovieApp\logger.py", line 14, in log
+    x = 1 / 0
+ZeroDivisionError: division by zero
+__main__ - INFO - Test Output
+root - INFO - Program Started
+root - WARNING - import statement not used
+root - ERROR - NameError raised
+root - ERROR - Division By Zero Attempted
+Traceback (most recent call last):
+  File "C:\Users\RyanSchlientz\PycharmProjects\MovieApp\logger.py", line 14, in log
+    x = 1 / 0
+ZeroDivisionError: division by zero
+__main__ - INFO - Test Output
